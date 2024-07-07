@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sunraj</h1>
 <h3 align="center">An engineering student exploring the world of code</h3>
 
-- 🔭 I’m currently working on **autonomous drone flight**
+- 🔭 I’m currently working on **autonomous drone flight** and **steganography**
 
-- 🌱 I’m currently learning **ROS, Reinforcement Learning, MERN Stack**
+- 🌱 I’m currently learning **Reinforcement Learning, CLI development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sunraj patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunraj patel" height="30" width="40" /></a>
 <a href="https://instagram.com/sunraj_pat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunraj_pat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thesunnyboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thesunnyboy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
